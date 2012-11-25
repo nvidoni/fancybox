@@ -1,7 +1,7 @@
 fancybox v1.3.6 / ProcessWire
 ===========================================================================
 
-<strong><a href="https://github.com/nvidoni/fancybox">DEMO</a></strong>
+<strong><a href="http://playground.com.hr/fancybox/">DEMO</a></strong>
 
 <strong>What's new compared to v1.3.4</strong>
 

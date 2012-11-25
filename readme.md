@@ -18,4 +18,4 @@ You can use plugin as standalone, these optimizations are not tied to ProcessWir
 
 <strong>Meta</strong>
 
-Don't forget to put: <strong>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" /&gt;</strong> in the HEAD of the document to make it work on mobiles &amp; tablets.
+Don't forget to put: <strong>&lt;meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0" /&gt;</strong> in the HEAD of the document to make it work on mobiles &amp; tablets.
